@@ -5,7 +5,7 @@
  
  name of content   |   link of content
  ----------------- |   --------
- read01            | [read01]
+ read01            | [read01](https://replit.com/@yaseen1998/reading-notes#read02.md)
  read02            |[read02]
  growth            |[growth]
  read02            |[read02]
