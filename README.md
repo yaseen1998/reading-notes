@@ -6,6 +6,11 @@
  name of content   |   link of content
  -------  |   --------
  read01   | [read01](https://replit.com/@yaseen1998/reading-notes#read:01.md)
+<<<<<<< HEAD
 
  read02   |[read02](https://replit.com/@yaseen1998/reading-notes#read02.md)
  growth|[growth](https://replit.com/@yaseen1998/reading-notes#growth.md)
+=======
+ read02   |[read02](read02)
+ growth|[growth](https://replit.com/@yaseen1998/reading-notes#growth.md)
+>>>>>>> 30cc0aeb7f1894a94c2cf5573e131508864036dc
