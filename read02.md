@@ -26,11 +26,13 @@
 
   # example in command terminal
 
-  command             | function
-  ------------------  |-------------
-  git help command    | information on a particular command
-  cd (name of folder) | change directory
-  git add .           | Track all files
-  git commit -m “ _”  | commit the changes
-  git clone URL       | create a copy of an existing Git
+  command               | function
+  ------------------    |-------------
+  *git help command*    | information on a particular command
+  *cd (name of folder)* | change directory
+  *git add .*           | Track all files
+  *git commit -m “ _”*  | commit the changes
+  *git clone (URL)*     | create a copy of an existing Git
+  
+  [terminal command](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
   
