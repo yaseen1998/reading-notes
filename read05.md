@@ -40,9 +40,9 @@ not (!)                 | !true = false !false = true
 A for loop repeats until a specified condition evaluates to false.
 loops through a block of code a number of times.
 
-for (statement 1; statement 2; statement 3) {
-  // code block to be executed
-}
+#### for (statement 1; statement 2; statement 3) {
+ #### // code block to be executed }
+
 Statement 1 is executed (one time) before the execution of the code block.
 
 Statement 2 defines the condition for executing the code block.
@@ -51,9 +51,9 @@ Statement 3 is executed (every time) after the code block has been executed.
 
 ### while statement
 oops through a block of code as long as a specified condition is true.
-while (condition) {
-  // code block to be executed
-}
+
+#### while (condition) {
+#### // code block to be executed }
 
 ### Comparing For and While
 ![compare](https://lh3.googleusercontent.com/proxy/E_8toCQCZRxoQgvl1Xw8ELYBF1wSgTR8m09y5vDRZsSlTTmbRUa9sfTTfP4r_TM0BSsPktTexd4BpF2AC1ejgN91m4NVdGWKHs5J7FEZAjvYmyMwmNLQlLKr0jsLl3yNCL0fRZN8_RY4)
