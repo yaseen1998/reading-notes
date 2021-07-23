@@ -87,7 +87,18 @@ Although comments are not visible to users in the main browser window, they can 
 
 
 ### Grouping Text & Elements In a Block
+
+element         | function        | example
+------------------|-------------------|--------------------|
+div     | group a set of elements togother     | [ex](https://www.w3schools.com/tags/tag_div.ASP) 
+
+
+
+include the center element for centering content on a page, font for controlling the appearance of text, and strike to put a line through the text — all of these can be achieved with CSS instead | Every element needed a closing tag |do not need to close all tags
+ nan |Attribute names had to be in lowercase | new elements and attributes will be introduce
+ nan | All attributes required a value, and all values were to be placed in double quotes |the HTML5 specification had not been complete
+ nan | Deprecated elements should no longer be used | nan
 element         |function                     | example    
 ----------------|-------------------------    |-------------------|
-div             | group a set of elements togother | [example](https://www.w3schools.com/tags/tag_div.ASP) 
-span            | control the appearance of the content of these elements using CSS | [example](https://www.w3schools.com/tags/tag_span.asp)
+div             | group a set of elements togother | [ex](https://www.w3schools.com/tags/tag_div.ASP) 
+span            | control the appearance of the content of these elements using CSS | [ex](https://www.w3schools.com/tags/tag_span.asp)
