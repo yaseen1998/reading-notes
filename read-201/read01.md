@@ -1,5 +1,5 @@
 # HTML 
-### Introduction
+## Introduction
 Understanding HTML and CSS can help anyone who works with the web; designers can create more attractive and usable sites .you have also added practical information on topics ypu are commonly asked about, such as how to prepare images, audio and video for the web, how to approach the design and build of a new site, how to improve your rankings in search engines (SEO), and how to use Google Analytics to learn about visitors to your site.
 
 
@@ -48,9 +48,9 @@ you usually type in the URL of the page you want to visit
 
 
 
-### Extra Markup
+## Extra Markup
 
-#### version of html 
+### version of html 
 
 html 4.0          | html 1.0          | html 5.0
 ------------------|-------------------|--------------------|
@@ -66,4 +66,28 @@ include the center element for centering content on a page, font for controlling
  <img src='https://cf.ppt-online.org/files/slide/z/zf4w8EDk6riQWATLVbndZjglp02ScJmRq1Ox7U/slide-4.jpg'/>
 
 
+### comments in html
+Although comments are not visible to users in the main browser window, they can be viewed by anyone who looks at the source code behind the page
+![comment](https://qph.fs.quoracdn.net/main-qimg-94a962e618da5383ef9abce51c41ef00.webp)
 
+### ID Attribute
+ It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore 
+ ![id attribute](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1589352735-1.png)
+
+ ### Class Attribute 
+ if you will want a way to identify several elements as being different from the other elements on the page.
+ <img src ='https://mlnt65ejujvm.i.optimole.com/8r61qOU-n-uNgJ9c/w:1500/h:825/q:auto/https://i1.wp.com/www.albashmoparmeg.com/wp-content/uploads/2021/04/html-attributes-%D8%A7%D9%84%D8%A8%D8%A7%D8%B4%D9%85%D8%A8%D8%B1%D9%85%D8%AC.png?resize=1500%2C825&ssl=1'/>
+
+
+### Inline elements and Block element 
+<img src = 'https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/06/Block-level-Inline-elements-in-html-df.jpg'>
+
+#### example on Inline elements and Block element 
+<img src = 'https://i1.wp.com/www.differencebetween.com/wp-content/uploads/2018/02/Difference-Between-Block-and-Inline-Elements-fig-1.png'>
+
+
+### Grouping Text & Elements In a Block
+element         |function                     | example    
+----------------|-------------------------    |-------------------
+div             | group a set of elements togother    |[example](https://www.w3schools.com/tags/tag_div.ASP) 
+span            | control the appearance of the content of these elements using CSS.| [example](https://www.w3schools.com/tags/tag_span.asp)
