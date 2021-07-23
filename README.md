@@ -5,8 +5,8 @@
  
  **name of the read**   |   **link of the read**
  -----------------      |   --------
- *read01*               | [come with me](read01.md)
- *read02*               |[come with me](read02.md)
+ *read102*              | [come with me](read-102.md)
+ *read201*              |[come with me](read-201.md)
  *growth*               |[come wih me](growth.md)
 
  

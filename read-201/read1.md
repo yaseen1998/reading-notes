@@ -1,16 +1,19 @@
 # HTML 
 ### Introduction
-Understanding HTML and CSS can help anyone who works with the web; designers can create more attractive and usable sites 5..I have also added practical information on topics I am commonly asked about, such as how to prepare images, audio and video for the web, how to approach the design and build of a new site, how to improve your rankings in search engines (SEO), and how to use Google Analytics to learn about visitors to your site.
-
-how to access to the Web ?
-web browser like chrome,Firefox and Internet Explorer
-web service : computer which hosts the website
-Devices : like computer , laptop and smartphone
-Screen readers: are programs that read out the contents of a computer screen to a user. 
+Understanding HTML and CSS can help anyone who works with the web; designers can create more attractive and usable sites .you have also added practical information on topics ypu are commonly asked about, such as how to prepare images, audio and video for the web, how to approach the design and build of a new site, how to improve your rankings in search engines (SEO), and how to use Google Analytics to learn about visitors to your site.
 
 
-How the Web Works ??
+#### how to access to the Web ?
+* web browser like chrome,Firefox and Internet Explorer
+* web service : computer which hosts the website
+* Devices : like computer , laptop and smartphone
+* Screen readers: are programs that read out the contents of a computer screen to a user. 
+
+
+#### How the Web Works ??
 <img src ='https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_3.0,g_center,w_400/v1/academind.com/content/tutorials/how-the-web-works/how-the-web-works-big-picture'/>
+
+
 When you visit a website, the web server 
 hosting that site could be anywhere in the 
 world. In order for you to find the location of 
@@ -23,23 +26,23 @@ structre depend on artical type such as newspaper or story or document
 #### html structe 
 html pages are text document
 * html element : made up of tow tag opening tag and closing tag 
-what the element use ?
+##### what the element use ?
 tells the browser 
 something about the information
 
 <img src = 'https://seranking.com/blog/wp-content/uploads/2021/04/HTML-element-structure-min.png'/>
-Attributes: provide additional information about the contents of an element.
-attribute title: indicates what kind of extra information
-The value is the information or setting for the attribute.
+ 
+* Attributes: provide additional information about the contents of an element.
+* attribute title: indicates what kind of extra information The value is the information or setting for the attribute.
 
 
 <img src = 'https://www.etutorialspoint.com/images/html_elements.jpg'/>
-a head element This contains information about the page 
 
-Everything inside this body element is shown inside the main browser 
-window
+* a head element This contains information about the page 
 
-title element are either shown in the top of the browser, above where 
+* Everything inside this body element is shown inside the main browser window
+
+* title element are either shown in the top of the browser, above where 
 you usually type in the URL of the page you want to visit
 
 
@@ -47,7 +50,7 @@ you usually type in the URL of the page you want to visit
 
 ### Extra Markup
 
-version of html 
+#### version of html 
 
 html 4.0          | html 1.0          | html 5.0
 ------------------|-------------------|--------------------|
@@ -61,3 +64,6 @@ include the center element for centering content on a page, font for controlling
  DOCTYPE declaration to tell a browser which version of HTML the page is using like
 
  <img src='https://cf.ppt-online.org/files/slide/z/zf4w8EDk6riQWATLVbndZjglp02ScJmRq1Ox7U/slide-4.jpg'/>
+
+
+
