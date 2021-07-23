@@ -88,6 +88,6 @@ Although comments are not visible to users in the main browser window, they can 
 
 ### Grouping Text & Elements In a Block
 element         |function                     | example    
-----------------|-------------------------    |-------------------
-div             | group a set of elements togother    |[example](https://www.w3schools.com/tags/tag_div.ASP) 
-span            | control the appearance of the content of these elements using CSS.| [example](https://www.w3schools.com/tags/tag_span.asp)
+----------------|-------------------------    |-------------------|
+div             | group a set of elements togother | [example](https://www.w3schools.com/tags/tag_div.ASP) 
+span            | control the appearance of the content of these elements using CSS | [example](https://www.w3schools.com/tags/tag_span.asp)
