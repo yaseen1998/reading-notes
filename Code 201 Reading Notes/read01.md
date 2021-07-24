@@ -90,7 +90,71 @@ Although comments are not visible to users in the main browser window, they can 
 
 element         | function        | example
 ------------------|-------------------|--------------------|
-div     | group a set of elements togother     | [ex](https://www.w3schools.com/tags/tag_div.ASP) 
-span            | control the appearance of the content of these elements using CSS | [ex](https://www.w3schools.com/tags/tag_span.asp)
-iframe         | mbed another document within the current HTML document | [ex](https://www.w3schools.com/tags/tag_iframe.asp)
+div     | group a set of elements togother     | [example](https://www.w3schools.com/tags/tag_div.ASP) 
+span            | control the appearance of the content of these elements using CSS | [example](https://www.w3schools.com/tags/tag_span.asp)
+iframe         | mbed another document within the current HTML document | [example](https://www.w3schools.com/tags/tag_iframe.asp)
+meta      | supply all kinds of information about your web page | [example](https://www.w3schools.com/tags/tag_meta.asp)
+
+
+
+## Html Layout 
+#### Traditional HTML Layouts
+web page authors used >div elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page
+
+#### New Html5 Layout Element
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already
+
+* header : that appears at the top , A header for an individual article> or section> within the page , used to contain the site name and the main navigation.
+* footer : that appears at the bottom , A  footer for an individual article> or section> within the page , contains opyright information, along with links to the privacy policy and terms and conditions.
+
+* [nav](https://www.w3schools.com/tags/tag_nav.asp) : used to contain the major navigational blocks on the site such as the primary site navigation
+
+* [article](https://www.w3schools.com/tags/tag_article.asp) : acts as a container for any section of a page that could stand alone and potentially be syndicated
+
+* [aside](https://www.w3schools.com/tags/tag_aside.asp) : Display some content aside from the content it is placed in
+
+* [section](https://www.w3schools.com/tags/tag_section.asp) : element groups related content together, and typically each section would have its own heading
+
+* [figure,figcaption](https://www.w3schools.com/tags/tag_figure.asp) : lement to mark up a photo in a document, and a <figcaption> element to define a caption for the photo
+
+* [div](https://www.w3schools.com/tags/tag_div.asp) : tag defines a division or a section in an HTML document.
+
+## Process & Design
+
+#### 1_ Who is the Site For?
+* Target Audience: individuals
+
+1- What is the age range of your target audience?
+
+2-Will your site appeal to more women or men? What is the mix?
+
+3- Which country do your visitors live in?
+
+* Target Audience: Companies
+
+1-What is the size of the company or relevant department?
+
+2-What is the position of people in the company who visit your site
+
+#### 2_ Why People Visit your website?
+* Key Motivations
+
+1-Are they looking for general entertainment or do they need to achieve a specific goal?
+
+* Specific Goals
+
+1- Are they looking for time sensitive information, such as the latest news or updates on a particular topic
+
+#### 3_ What Your Visitors are Trying to Achieve?
+
+#### 4_ What Information Your Visitors Need?
+
+* Key Information
+
+1- Will visitors be familiar with your subject area / brand or do you need to introduce yourself
+
+#### How Often People Will Visit Your Site?
+* Goods / Services
+* Information 
+
 

@@ -5,9 +5,9 @@
  
  **name of the read**   |   **link of the read**
  -----------------      |   --------
- *read102*              | [come with me](read-102)
- *read201*              |[come with me](read-201)
- *growth*               |[come wih me](growth.md)
+ *read102*              | [come with me](Code 102 Reading Notes)
+ *read201*              |[come with me](Code 201 Reading Notes)
+ 
 
  
 
