@@ -158,3 +158,18 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 * Information 
 
 
+# Java Script
+### The ABC of Programming
+#### A- What is a script and how do I create one?
+A script is a series of instructions that a computer can follow to achieve a goal.
+
+##### You could compare scripts to any of the following: 
+* RECIPES       / HANDBOOKS         / MANUALS 
+
+##### How to write a script ?
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+
+#### B- How do computers fit in with the world around them?
+
+
+#### C- How do I write a script for a web page? 
