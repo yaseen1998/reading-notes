@@ -1,6 +1,7 @@
 # Html Text
 #### heading tag 
 heading text has six level start from 1 to 6
+
 ![heading](https://seranking.com/blog/wp-content/uploads/2019/08/Diagrammatic-Representation-of-Heading-Tag-Hierarchy.png)
 
 #### paragraphs tag 
@@ -100,6 +101,7 @@ An array is a special type of variable. It doesn't just store one value; it stor
 <img src = 'https://miro.medium.com/max/1400/1*uENzVnU4d_rXpuoe9q1jsw.png'>
 
 ### comparison operator
+
 name of operator        | description   
 ------------------------|----------------------
 Equal (==)              | Returns true if x==y in value
@@ -109,10 +111,11 @@ Greater or equal (>=)   | Returns true if x>y or x==y
 strict equal(===)       | return true in same data
 
 ### logical operator
+
 name of operator        | description   
 ------------------------|----------------------
 AND (&&)                | T and T =T anything else false
-OR (\\\\)                   | F or F = F anything else true
+OR (\\\\)                 | F or F = F anything else true
 not (!)                 | !true = false !false = true
 
 
