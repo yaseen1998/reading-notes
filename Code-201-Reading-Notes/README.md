@@ -4,7 +4,7 @@
  -----------------      |   --------
  *read01*               | [come with me](read01.md)
  *read02*               |[come with me](class-02.md)
- *read03*               | [come with me](read03.md)
+ *read03*               | [come with me](class-03.md)
  *read04*               |[come with me](read04.md)
  *read05*               | [come with me](read05.md)
  *read06*               |[come with me](read06.md)
