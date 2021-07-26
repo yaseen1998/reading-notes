@@ -62,7 +62,6 @@ The border separates the edge of one box from another
 ### *Mergin* 
 Margins sit outside the edge of the border.
 
-<<<<<<< HEAD
 **margin-right**
 
 ### *Padding*
@@ -113,11 +112,6 @@ olops through a block of code as long as a specified condition is true.
 
 #### while (condition) {
 #### // code block to be executed }
-=======
-### *Padding*
-Padding is the space between the border of a box and any content contained within it.
-
->>>>>>> 2063b6fd197ba13fe4c9850716430e1750a797f7
 
 
 
