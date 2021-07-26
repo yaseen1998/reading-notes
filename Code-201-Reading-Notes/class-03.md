@@ -62,9 +62,56 @@ The border separates the edge of one box from another
 ### *Mergin* 
 Margins sit outside the edge of the border.
 
+**margin-right**
+
 ### *Padding*
 Padding is the space between the border of a box and any content contained within it.
 
+**padding-'top'**
+
+
+### Change Inline/Block
+**display** :  turn an inline elementinto a block-level element or vice versa, and can also be used to hide an element from the page.
+(inline,block,inline-block,none)
+
+### Hiding Boxes
+**visibility** : hide boxes from users but It leaves a space where the element would have been.
+(hidden,visible)
+
+
+** border-image** : The border-image property applies an image to the border of any box.
+(stretch ,repeat ,round )
+
+**box-shadow**: property allows you to add a drop shadow around a box
+(Horizontal offset,Vertical offset,Blur distance,Spread of shadow)
+
+**border-top-right-radius**:px
+
+# javascript
+
+
+### switch statement 
+<img src = 'https://www.bookofnetwork.com/images/javascript-images/JS_switch-syntax_20Sep16_1827.png'>
+
+### for statement
+A for loop repeats until a specified condition evaluates to false.
+loops through a block of code a number of times.
+
+#### for (statement 1; statement 2; statement 3) {
+#### // code block to be executed }
+
+Statement 1 is executed (one time) before the execution of the code block.
+
+Statement 2 defines the condition for executing the code block.
+
+Statement 3 is executed (every time) after the code block has been executed.
+
+
+### while statement
+olops through a block of code as long as a specified condition is true.
+
+#### while (condition) {
+#### // code block to be executed }
 
 
 
