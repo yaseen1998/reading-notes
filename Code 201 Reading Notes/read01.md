@@ -169,6 +169,11 @@ A script is a series of instructions that a computer can follow to achieve a goa
 ##### How to write a script ?
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 
+##### designing a script :
+* define the Goals
+* individual tasks needed to achieve 
+* make a flowchart
+
 #### B- How do computers fit in with the world around them?
 
 
