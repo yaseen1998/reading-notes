@@ -30,5 +30,27 @@ Images created for the web should be saved at a resolution of 72 ppi. The higher
 
 
 
-<<<<<<< HEAD
-# next
+
+# color
+Color can really bring your pages to life.
+
+
+Every color on a computer screen is created by mixing amounts of red, 
+reen, and blue.
+### how to specify color in CSS :
+* rgb values :three values
+* hex code : six digit
+* color name 
+
+#### background-color
+
+<img src = 'https://3rabon.com/wp-content/uploads/2018/03/contrast.png'>
+
+
+#### opacity, rgba
+specify the opacity of an element and any of its child elements. The value is a number between 0.0 and 1.0
+
+
+#### hsl, hsla
+The hsl color property has been introduced in CSS3 as an alternative way to specify colors. The value of the property starts with the letters hsl, followed by individual values inside parentheses for
+<img src='https://i2.wp.com/www.techgrapple.com/online-tools/wp-content/uploads/2020/09/color-picker.jpg?fit=500,313u0026ssl=1'>
