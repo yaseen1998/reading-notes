@@ -30,4 +30,5 @@ Images created for the web should be saved at a resolution of 72 ppi. The higher
 
 
 
+<<<<<<< HEAD
 # next
