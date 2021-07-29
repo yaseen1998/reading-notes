@@ -6,7 +6,7 @@
  *read02*               |[come with me](class-02.md)
  *read03*               | [come with me](class-03.md)
  *read04*               |[come with me](read04.md)
- *read05*               | [come with me](read05.md)
+ *read05*               | [come with me](class-05.md)
  *read06*               |[come with me](read06.md)
  *read07*               | [come with me](read07.md)
  *read08*               |[come with me](read08.md)
