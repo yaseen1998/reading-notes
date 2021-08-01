@@ -52,3 +52,40 @@ The querySelector() method only returns the first element that matches the speci
 
 ### select element from a nodelist:
  **1-item() method** :which will return an individual node from the Node list.
+element.item(0)
+
+**2-array senatx**:selecting node from nodelist and this method is faser than item method 
+element[0]
+
+**3-SELECTI NG ELEMENTS USING CLASS ATTRIBUTES** :
+var elements = document .getEl ementsByClassName('hot'); // Find hot items 
+if (elements.l ength> 2) { 
+var el = elements[2]; 
+el.className = 'cool'; //Change the value of its class attribute
+}
+
+**4-SELECTING ELEMENTS BY TAG NAME**:
+var elements = document.getElementsByTagName('li '); // Find <li> elements 
+if (elements.length> O) { 
+var el = elements[O]; 
+el.className = 'cool';// Change the value of the class attribute
+  }
+  
+  
+  **5-SELECTING ELEMENTS USING CSS SELECTORS**:
+  // querySel ector() only retur ns the fi rst match 
+var el = document .querySel ector('li .hot ' }; 
+el .cl assName = ' cool' ; 
+// querySel ectorAll returns a Nodelist 
+  // The second matching element (the t hird list item) is selected and changed 
+var els = document .querySelectorAll('li .hot') ; 
+els[l] .className = ' cool' ;
+  
+  
+  ### LOOPING THROUGH A NODELIST
+var hotlt ems = document .querySelectorAl l (' l i . hot') ; II Store Nodel ist i n array 
+if (hot ltems.length > O) { II If it contains i t ems 
+for (var i=O; i<hotl tems.length; i++) { II Loop throug h each it em 
+hotltems[i] .className = 'cool'; II Change val ue of class at tri bute
+                     
+                     
