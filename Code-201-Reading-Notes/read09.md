@@ -74,4 +74,27 @@ A drop down list box (also known as a select box) allows users to select one opt
 * *type email
 * type url
 
+# event 
+### DIFFERENT EVENT TYPES
+Here is a selection of the events that occur in the browser while you are browsing the web. Any of these events can be used to trigger a function in your JavaScript code
+
+### HOW EVENTS TRIGGER JAVASCRIPT CODE
+* element 
+* event
+* code
+
+### THREE WAYS TO BIND AN EVENT TO AN ELEM ENT
+Event handlers let you indicate which event you are waiting for on any particular element. There are three types of event handlers. 
+
+### TRADITIONAL DOM EVENT HANDLERS
+<img src = "https://slidetodoc.com/presentation_image/136f5d765d0686d925d0c3c7e2c96a57/image-30.jpg">
+
+### TRADITIONAL DOM EVENT HANDLERS
+Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers.
+
+### EVENT LISTENERS 
+Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers.
+
+<img src="https://www.thatsanegg.com/static/b3378a0475a856aa16a9270dfd73dc88/c0f46/button-eventlistener.png">
+
 
