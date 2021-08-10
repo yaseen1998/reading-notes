@@ -31,3 +31,40 @@ The `<canvas>` element creates a fixed-size drawing surface that exposes one or 
 * ctx.fillStyle = '#FFA500';
 * ctx.fillStyle = 'rgb(255, 165, 0)';
 * ctx.fillStyle = 'rgba(255, 165, 0, 1)';
+
+  
+  ### Drawing text
+  function draw() {<br>
+  var ctx = document.getElementById('canvas').getContext('2d');<br>
+  ctx.font = '48px serif';<br>
+  ctx.fillText('Hello world', 10, 50);<br>
+}
+  
+  ### A strokeText
+  function draw() {<br>
+  var ctx = document.getElementById('canvas').getContext('2d');<br>
+  ctx.font = '48px serif';<br>
+  ctx.strokeText('Hello world', 10, 50);<br>
+}
+  ### Styling text
+  * font = value
+  * textAlign = value
+  * textBaseline = value ,top, hanging, middle, alphabetic, ideographic, bottom
+  * direction = value , ltr, rtl, inherit.
+  
+  ### Advanced text measurements
+  function draw() {<br>
+  var ctx = document.getElementById('canvas').getContext('2d');<br>
+  var text = ctx.measureText('foo'); // TextMetrics object<br>
+  text.width; // 16;<br>
+}<br>
+  
+  ### A lineCap 
+  The lineCap property determines how the end points of every line are drawn. There are three possible values for this property and those are: butt, round and square
+  
+  ### A lineJoin
+  The lineJoin property determines how two connecting segments (of lines, arcs or curves) with non-zero lengths in a shape are joined together
+  <br>
+  There are three possible values for this property: round, bevel and miter
+  
+  
