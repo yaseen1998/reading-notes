@@ -15,3 +15,19 @@ The <canvas> tag is used to draw graphics, on the fly, via scripting (usually Ja
 The `<canvas>` element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown.
 
 <img src = "https://www.wikitechy.com/step-by-step-html-tutorials/img/html-images/code-explanation-canvas-tag-in-html.png">
+  
+  
+  ### The grid
+  Normally 1 unit in the grid corresponds to 1 pixel on the canvas.<br>
+  `<canvas>` only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths.
+  <br>
+  
+  <img src = "https://miro.medium.com/max/1400/1*RFW4A8MDdRx8LHNKryqoRQ.png">
+  
+  
+  ### Applying styles and colors
+  
+  * ctx.fillStyle = 'orange';
+* ctx.fillStyle = '#FFA500';
+* ctx.fillStyle = 'rgb(255, 165, 0)';
+* ctx.fillStyle = 'rgba(255, 165, 0, 1)';
