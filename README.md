@@ -7,7 +7,7 @@
  -----------------      |   --------
  *read102*              | [come with me](Code 102 Reading Notes)
  *read201*              |[come with me](Code-201-Reading-Notes)
- *read301*             |[come with me](Code-201-Reading-Notes)
+ *read301*             |[come with me](Code-301-Reading-Notes)
 
  
 
