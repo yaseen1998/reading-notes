@@ -55,3 +55,14 @@ const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
 console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }<br>
 const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}<br>
 objectFour.laugh() // 😂😂😂😂😂<br>
+
+
+
+### video 
+#### In the video, what is the first step that the developer does to pass functions between components?
+make props to share the function and preventdefault 
+### In your own words, what does the increment function do?
+it's compare when you click then after determine where are you click it's increase the count
+
+### How can you pass a method from a parent component into a child component? 
+by using this and name of function
