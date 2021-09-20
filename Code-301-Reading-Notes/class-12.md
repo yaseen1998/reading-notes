@@ -38,4 +38,21 @@ an URL to check if the update has been succeeded. <br>
 403 Forbidden - The client has authorized or doesn’t need to authorize itself, 
 but still has no permissions to access the resource.
 
+## Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+* Create an Atlas Account and Cluster
+* Set Up Connectivity to Atlas
+
+## What is middleware?
+Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system. 
+
+## What does app.use(express.json()) do?
+The express.json() function is a built-in middleware function in Express. It parses incoming requests with JSON payloads and is based on body-parser.
+
+## What is the difference beween PUT and PATCH?
+PUT HTTP Request: PUT is a method of modifying resources where the client sends data that updates the entire resource. PUT is similar to POST in that it can create resources, 
+
+<br>
+PATCH HTTP Request: Unlike PUT Request, PATCH does partial update e.g. Fields that need to be updated by the client, only that field is updated without modifying the other field.
+
+
 
