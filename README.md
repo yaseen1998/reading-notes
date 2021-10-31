@@ -8,7 +8,6 @@ this website include the summry of what the courses contain
  
  **name of the read**                                    |   **link of the read**
  -----------------                                       |   --------
- *Code 102 - Intro to Software Development*              |[come with me](Code 102 Reading Notes)
  *Code 201 - Foundations of Software Development*        |[come with me](Code-201-Reading-Notes)
  *Code 301 - Intermediate Software Development*          |[come with me](Code-301-Reading-Notes)
   *Code 401 - Advanced Software Development*             |[come with me](Code-401-Reading-Notes)
