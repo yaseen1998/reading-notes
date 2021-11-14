@@ -39,3 +39,34 @@ In the below code, we:
 * Specify the keyword argument skip_header=1 so that the header row is skipped.
 
 **wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_header=1)**
+
+### Converting Data Types
+You can use the numpy.ndarray.astype method to convert an array to a different type. The method will actually copy the array, and return a new array with the specified data type.
+
+### Single Array Math
+If you do any of the basic mathematical operations (/, *, -, +, ^) with an array and a value, it will apply the operation to each of the elements in the array.
+
+### NumPy Array Methods
+In addition to the common mathematical operations, NumPy also has several methods that you can use for more complex calculations on arrays. An example of this is the numpy.ndarray.sum method. 
+<br>
+<img src='https://i.stack.imgur.com/muxuY.jpg'/>
+<br>
+img src='https://cdn.shortpixel.ai/spai/w_924+q_glossy+ret_img+to_webp/https://www.sharpsightlabs.com/wp-content/uploads/2018/10/numpy-sum-syntax-explanation_v2.png'/>
+
+<br>
+* numpy.ndarray.mean — finds the mean of an array.
+* numpy.ndarray.std — finds the standard deviation of an array.
+* numpy.ndarray.min — finds the minimum value in an array.
+* numpy.ndarray.max — finds the maximum value in an array.
+
+### Reshaping NumPy Arrays
+We can use the numpy.ravel function to turn an array into a one-dimensional representation. It will essentially flatten an array into a long sequence of values:
+<br>
+we can use the numpy.reshape function to reshape an array to a certain shape we specify
+
+### Combining NumPy Arrays
+We can use numpy.vstack to vertically stack multiple arrays. Think of it like the second arrays’s items being added as new rows to the first array. 
+<br>
+If we want to combine arrays horizontally, where the number of rows stay constant, but the columns are joined, then we can use the numpy.hstack function. The arrays we combine need to have the same number of rows for this to work.
+<br>
+we can use numpy.concatenate as a general purpose version of hstack and vstack. If we want to concatenate two arrays, we pass them into concatenate, then specify the axis keyword argument that we want to concatenate along
