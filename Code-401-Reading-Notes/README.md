@@ -17,3 +17,8 @@
  *read13*               | [come with me](class-13.md)
  *read14*               |[come with me](class-14.md)
  *read15*               | [come with me](class-15.md)
+ *read16*               | [come with me](class-16.md)
+ *read17*               | [come with me](class-17.md)
+ *read18*               | [come with me](class-18.md)
+ *read19*               | [come with me](class-19.md)
+ *read20*               | [come with me](class-20.md)
