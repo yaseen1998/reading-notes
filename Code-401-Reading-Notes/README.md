@@ -28,3 +28,4 @@
  *read29*              | [come with me](class-29.md)
  *read30*              | [come with me](class-30.md)
  *read31*              | [come with me](class-31.md)
+ *read32*              | [come with me](class-32.md)
